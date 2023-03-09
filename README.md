@@ -18,6 +18,21 @@ Here are some ideas to get you started: -->
 <br/> I'm Prashant</h1> 
 <h3 align="center">I am a Software Engineer and Java Developer with over 2+ years of experience.</h3>
 
+- Experience in developing Backend using Spring Boot.
+- Experience in developing interactive using using React js.
+- Good experience in developing RESTful web services.
+- Experience in Spring 5.0(Core, MVC , Security and Boot). 
+- Good knowledge and skillsets in all the technologies of Java EE namely JDBC, Servlets & 
+JSP.
+- Strong in OOPs concepts, Collections, Expection Handling, Multithreading.
+- Proficient in using Hibernate ORM Framework with JPA for data persistence.
+- Knowledge about AWS, Elastic Search .
+- Understanding of Business requirements, Software requirements.
+- Experience in working with Agile environment.
+- Good Exposure of SDLC.
+
+- :mailbox: prashant.bag14@gmail.com
+
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-kumar-bag-b52b52155/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Prashan54062596) 
 
@@ -46,10 +61,11 @@ Here are some ideas to get you started: -->
 </tr>
  </table>
       </div>
-      <a href="http://www.github.com/Prashantbag"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Prashantbag&theme=merko&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+      <a href="http://www.github.com/Prashantbag"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashantbag&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" /></a>
     </td>
   </tr>
 <hr>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  
