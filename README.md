@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/> I'm Prashant</h1> 
-<h3 align="center">I am a Software Engineer and Java Developer with over 2+ years of experience.</h3>
+<h3 align="center">I am a Software Engineer and Java Developer with over 2.5+ years of experience.</h3>
 
 - Experience in developing Backend using Spring Boot.
 - Experience in developing interactive using using React js.
